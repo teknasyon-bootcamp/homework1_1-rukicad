@@ -1,8 +1,4 @@
 <?php
-/**
-*Herhangi bir yaş değeri girdiğimiz de o yaş aralığına denk gelen kelimeyi çıktı olarak ver.
-* 0 ve 14 yaş aralığında ise çocuk yazdır.
-*/
 $age = 23;
 if ($age >= 0 && $age <= 14) {
     echo "Child";

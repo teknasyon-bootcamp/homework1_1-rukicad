@@ -1,6 +1,6 @@
 <?php
 
-/* Yaş kontrolümüzü yapmak için ilk if'i çocuk aralığından başlatıyoruz.
+/* Yaş kontrolümüzü yapmak için ilk çocuk aralığından başlatıyoruz.
 Amacımız $age değişkeninin 0 ile 14 sayıları arasında olup olmadığını kontrol etmek.*/
 $age = 23;
 if ($age >= 0 && $age <= 14) {

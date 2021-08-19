@@ -15,8 +15,6 @@ if ($age >= 0 && $age <= 14) {
 
 
 /**
- * Bu ödevde age değişkeni içerisinde yer alan yaş değerinin bulunduğu
- * yaş grubu tespit edilip ekrana bu yaş grubunun ismi yazılmalıdır.
  * 0-14 = Child
  *
  * 15-24 = Young
